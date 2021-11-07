@@ -1,0 +1,14 @@
+body * {
+    margin: 0;
+}
+
+body {
+    background: #000000;
+    font-family: 'Raleway', sans-serif;
+    color: #ffffff;
+    font-weight: 300;
+}
+
+.logo {
+    width: 30px;
+}
